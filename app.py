@@ -9,8 +9,8 @@ from openpyxl.styles import PatternFill, Font, Alignment, Border, Side
 # CONFIGURACIÓN DE LA PÁGINA
 # ==========================================
 st.set_page_config(page_title="Conciliador de Logística", layout="wide")
-st.title("📊 Conciliador Automático de Logística")
-st.write("Sube el archivo de descarga para realizar la conciliación automática.")
+st.title("📊 Corrección Costos y Asignación de Facturas")
+st.write("Sube el archivo para realizar la conciliación automática.")
 
 # ==========================================
 # FUNCIONES DE LIMPIEZA
